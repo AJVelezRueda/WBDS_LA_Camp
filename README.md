@@ -10,11 +10,3 @@ def funcion1():
 Voy a agregar código 
 def funcion1():
 	print("una funcion")
-
-
-## este es ooootro códgo
-
-Voy a agregar código 
-def funcion1():
-	print("una funcion")
-
